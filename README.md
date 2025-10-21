@@ -44,8 +44,17 @@ cd conserflow.ERP
 #se encuentra el archivo conserflow.ERP ahi se encuentra toda la información
 #para que funcione la aplicación
 
-Usando phpMyAdmin
+#configuracion de la conexion de la base de datos
 
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=conserflow.ERP
+DB_USERNAME=root
+DB_PASSWORD=
+
+
+Usando phpMyAdmin
 
 Selecciona la base de datos recién creada.
 
