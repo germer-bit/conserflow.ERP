@@ -66,3 +66,8 @@ php artisan migrate
 
 #Correr servicio
 composer run dev
+
+#Datos de prueba
+en 
+databese/seeders/UsersTableSeeder.php
+encontrara los datos para ingresar, datos de prueba
